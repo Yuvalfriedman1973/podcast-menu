@@ -31,5 +31,5 @@ body {
 }
 
 .image {
-    width: 70px;
+    display: flex;
 }
