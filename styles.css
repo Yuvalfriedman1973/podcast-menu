@@ -31,6 +31,6 @@ body {
 }
 
 .container img {
-    width: 200px;
     align-items: center;
+    width: 200px;
 }
