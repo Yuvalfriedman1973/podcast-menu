@@ -30,6 +30,10 @@ body {
     margin: 0;
 }
 
+. container p {
+    align-items: center;
+}
+
 .image {
     display: block;
 }
