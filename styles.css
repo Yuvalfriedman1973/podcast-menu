@@ -32,4 +32,5 @@ body {
 
 .image {
     width: 10px;
+    justify-items: center;
 }
