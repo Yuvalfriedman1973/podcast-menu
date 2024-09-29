@@ -23,7 +23,11 @@ body {
     margin: 0;
 }
 
-.container h3 {
+.clm {
+    display: flex;
+}
+
+.clm h3 {
     text-align: center;
     color: #61ad9c;
     padding: 0;
