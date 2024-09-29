@@ -24,7 +24,8 @@ body {
 }
 
 .clm {
-    display: flex;
+    float: left;
+    width: 25%;
 }
 
 .clm h3 {
