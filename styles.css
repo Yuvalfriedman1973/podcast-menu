@@ -9,9 +9,12 @@ body {
     padding-top: 1.9px;
 }
 #one {
-    width: 60px;
-    height: 60px;
-    al: center;
+    display: grid;
+    grid-template-columns: 1fr;
+    justify-self: right;
+    width: 140px;
+    height: 140px;
+
 }
 .container h1 {
     text-align: center;
