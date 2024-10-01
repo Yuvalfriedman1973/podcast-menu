@@ -8,14 +8,7 @@ body {
     margin: 0px;
     padding-top: 1.9px;
 }
-#one {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-self: right;
-    width: 140px;
-    height: 140px;
 
-}
 .container h1 {
     text-align: center;
     margin: 0;
