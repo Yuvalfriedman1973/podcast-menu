@@ -6,16 +6,9 @@ body {
 .container {
     width: 100%;
     margin: 0px;
-    padding-top: 1.9px;
+    padding: 0px;
 }
-#one {
-    display: grid;
-    grid-template-columns: 1fr;
-    justify-self: right;
-    width: 140px;
-    height: 140px;
 
-}
 .container h1 {
     text-align: center;
     margin: 0;
@@ -24,7 +17,7 @@ body {
 
 .container h2 {
     text-align: center;
-    color: #61ad9;
+    color: #61ad9c;
     padding: 0;
     margin: 0;
 }
@@ -32,12 +25,11 @@ body {
 .cover {
     display: grid;
     grid-template-columns: 1fr;
-    grid-row-gap: 0;
 }
 
 .box p {
     text-align: center;
-    color: #61ad9c;
+    color: #1c3a52;
     font-size: 12px;
     padding: 0;
     margin: 0;
